@@ -9,3 +9,14 @@ D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.
 D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.AssemblyInfo.cs
 D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.dll
 D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.pdb
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.csprojAssemblyReference.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.csproj.CoreCompileInputs.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.AssemblyInfoInputs.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.AssemblyInfo.cs
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.dll
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.pdb
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.deps.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.runtimeconfig.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.runtimeconfig.dev.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.dll
+C:\School stuff\Autumn 2018\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.pdb
