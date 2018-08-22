@@ -1,0 +1,11 @@
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.deps.json
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.runtimeconfig.json
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.runtimeconfig.dev.json
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.dll
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\bin\Debug\netcoreapp2.1\Assignment_1.pdb
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.csprojAssemblyReference.cache
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.csproj.CoreCompileInputs.cache
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.AssemblyInfoInputs.cache
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.AssemblyInfo.cs
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.dll
+D:\Koulu\Game-Server-Programming\Assignments\Assignment_1\obj\Debug\netcoreapp2.1\Assignment_1.pdb
