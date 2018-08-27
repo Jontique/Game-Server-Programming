@@ -3238,22 +3238,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\School stuff\\Autumn 2018\\Game-Server-Programming\\Assignments\\Assignment_1\\Assignment_1.csproj",
+      "projectUniqueName": "d:\\Koulu\\Game-Server-Programming\\Assignments\\Assignment_1\\Assignment_1.csproj",
       "projectName": "Assignment_1",
-      "projectPath": "C:\\School stuff\\Autumn 2018\\Game-Server-Programming\\Assignments\\Assignment_1\\Assignment_1.csproj",
+      "projectPath": "d:\\Koulu\\Game-Server-Programming\\Assignments\\Assignment_1\\Assignment_1.csproj",
       "packagesPath": "C:\\Users\\Jontique\\.nuget\\packages\\",
-      "outputPath": "C:\\School stuff\\Autumn 2018\\Game-Server-Programming\\Assignments\\Assignment_1\\obj\\",
+      "outputPath": "d:\\Koulu\\Game-Server-Programming\\Assignments\\Assignment_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jontique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jontique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
