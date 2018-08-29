@@ -1,0 +1,14 @@
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\bin\Debug\netcoreapp2.1\web-api.deps.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.dev.json
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\bin\Debug\netcoreapp2.1\web-api.dll
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\bin\Debug\netcoreapp2.1\web-api.pdb
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.csprojAssemblyReference.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.csproj.CoreCompileInputs.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cs
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfoInputs.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfo.cs
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.RazorTargetAssemblyInfo.cache
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.dll
+C:\School stuff\Autumn 2018\Game-Server-Programming\web-api\obj\Debug\netcoreapp2.1\web-api.pdb
