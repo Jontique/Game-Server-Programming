@@ -49,7 +49,7 @@ namespace web_api
         Task<Player> Delete(Guid id);
     }
 
-    public class InMemoryRepository : IRepository {
+    /*public class InMemoryRepository : IRepository {
 
          Task<Player> Get(Guid id)
         {
@@ -60,5 +60,5 @@ namespace web_api
         Task<Player> Modify(Guid id, ModifiedPlayer player);
         Task<Player> Delete(Guid id);
     }
-    
+    */
 }
