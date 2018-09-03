@@ -125,8 +125,6 @@ namespace Assignment_1
             {
                 try
                 {
-
-                
                     while(!streamReader.EndOfStream) 
                     {  
                         var line = await streamReader.ReadLineAsync();
