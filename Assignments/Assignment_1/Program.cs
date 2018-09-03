@@ -82,7 +82,6 @@ namespace Assignment_1
         {
            // int amount;
             var httpClient = new System.Net.Http.HttpClient();
-            Console.Write("onlineeee");
 
             var toast = await httpClient.GetByteArrayAsync("http://api.digitransit.fi/routing/v1/routers/hsl/bike_rental");
             string utfString = System.Text.Encoding.UTF8.GetString(toast);
@@ -95,7 +94,7 @@ namespace Assignment_1
                     if(station.ToLower() == stationInfo.stations[i].name.ToLower()) 
                     {
                         _bikesAvailable = stationInfo.stations[i].bikesAvailable;
-                        Console.WriteLine(stationInfo.stations[i].name + " has " + _bikesAvailable + " bikes available.\n");
+                        Console.WriteLine(stationInfo.stations[i].name + " has " + _bikesAvailable + " bike(s) available.\n");
                         return _bikesAvailable;
                     }
                 }
