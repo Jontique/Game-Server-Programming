@@ -1,0 +1,11 @@
+Tässä peliohjelmien taustajärjestelmien kotitehtävien suorituksia. Olemme tehneet ne parityönä.
+1) 
+	kummankin ratkaisu löytyy erikseen
+2, 3, 4)
+	Ratkaisut aika siististi yhdessä paketissa. Varoitukset tulevat asynkronisten funktioiden takia,
+	koska awaittia ei kutsuta. Parempaa ratkaisua emme heti keksineet. Itemeistä on virtuaalisesti lista siitä, kenelle ne kuuluvat.
+	Tehtävänannossa jäi huomaamatta, että se piti sisällyttää Player-instansseihin. Nyt käytössä on OwnerID-pointteri. Hommaan voisi
+	kirjoittaa purkan, joka etsii kaikki itemit ja lisää ne listaan sinne Playeriin.
+5) Minscore ja muutama muu homma toimii
+
+terveisin Matti Kauppila

@@ -1,0 +1,14 @@
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.csprojAssemblyReference.cache
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.csproj.CoreCompileInputs.cache
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.RazorAssemblyInfo.cache
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.RazorAssemblyInfo.cs
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.AssemblyInfoInputs.cache
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.AssemblyInfo.cs
+C:\xugdrive\school\game-server-course\bin\Debug\netcoreapp2.1\game-server-course.deps.json
+C:\xugdrive\school\game-server-course\bin\Debug\netcoreapp2.1\game-server-course.runtimeconfig.json
+C:\xugdrive\school\game-server-course\bin\Debug\netcoreapp2.1\game-server-course.runtimeconfig.dev.json
+C:\xugdrive\school\game-server-course\bin\Debug\netcoreapp2.1\game-server-course.dll
+C:\xugdrive\school\game-server-course\bin\Debug\netcoreapp2.1\game-server-course.pdb
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.RazorTargetAssemblyInfo.cache
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.dll
+C:\xugdrive\school\game-server-course\obj\Debug\netcoreapp2.1\game-server-course.pdb
